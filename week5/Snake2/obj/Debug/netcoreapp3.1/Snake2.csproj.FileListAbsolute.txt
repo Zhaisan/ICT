@@ -1,0 +1,13 @@
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\bin\Debug\netcoreapp3.1\Snake2.exe
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\bin\Debug\netcoreapp3.1\Snake2.deps.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\bin\Debug\netcoreapp3.1\Snake2.runtimeconfig.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\bin\Debug\netcoreapp3.1\Snake2.runtimeconfig.dev.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\bin\Debug\netcoreapp3.1\Snake2.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\bin\Debug\netcoreapp3.1\Snake2.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\obj\Debug\netcoreapp3.1\Snake2.csprojAssemblyReference.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\obj\Debug\netcoreapp3.1\Snake2.AssemblyInfoInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\obj\Debug\netcoreapp3.1\Snake2.AssemblyInfo.cs
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\obj\Debug\netcoreapp3.1\Snake2.csproj.CoreCompileInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\obj\Debug\netcoreapp3.1\Snake2.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\obj\Debug\netcoreapp3.1\Snake2.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\week5\Snake2\obj\Debug\netcoreapp3.1\Snake2.genruntimeconfig.cache
