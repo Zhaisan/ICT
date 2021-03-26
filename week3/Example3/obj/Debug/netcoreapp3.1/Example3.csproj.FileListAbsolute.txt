@@ -1,0 +1,13 @@
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\obj\Debug\netcoreapp3.1\Example3.csprojAssemblyReference.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\obj\Debug\netcoreapp3.1\Example3.AssemblyInfoInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\obj\Debug\netcoreapp3.1\Example3.AssemblyInfo.cs
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\obj\Debug\netcoreapp3.1\Example3.csproj.CoreCompileInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\bin\Debug\netcoreapp3.1\Example3.exe
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\bin\Debug\netcoreapp3.1\Example3.deps.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\bin\Debug\netcoreapp3.1\Example3.runtimeconfig.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\bin\Debug\netcoreapp3.1\Example3.runtimeconfig.dev.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\bin\Debug\netcoreapp3.1\Example3.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\bin\Debug\netcoreapp3.1\Example3.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\obj\Debug\netcoreapp3.1\Example3.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\obj\Debug\netcoreapp3.1\Example3.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\week3\Example3\obj\Debug\netcoreapp3.1\Example3.genruntimeconfig.cache
