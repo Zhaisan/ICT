@@ -1,0 +1,13 @@
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\bin\Debug\netcoreapp3.1\FileManager.deps.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.dev.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\bin\Debug\netcoreapp3.1\FileManager.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\bin\Debug\netcoreapp3.1\FileManager.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\obj\Debug\netcoreapp3.1\FileManager.csprojAssemblyReference.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfoInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfo.cs
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\obj\Debug\netcoreapp3.1\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\obj\Debug\netcoreapp3.1\FileManager.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\obj\Debug\netcoreapp3.1\FileManager.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\week2\FileManager\obj\Debug\netcoreapp3.1\FileManager.genruntimeconfig.cache
