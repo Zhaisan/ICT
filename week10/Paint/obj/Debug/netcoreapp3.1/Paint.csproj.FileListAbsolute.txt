@@ -1,0 +1,15 @@
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\bin\Debug\netcoreapp3.1\Paint.exe
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\bin\Debug\netcoreapp3.1\Paint.deps.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\bin\Debug\netcoreapp3.1\Paint.runtimeconfig.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\bin\Debug\netcoreapp3.1\Paint.runtimeconfig.dev.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\bin\Debug\netcoreapp3.1\Paint.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\bin\Debug\netcoreapp3.1\Paint.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.csprojAssemblyReference.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.Form1.resources
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.csproj.GenerateResource.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.AssemblyInfoInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.AssemblyInfo.cs
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\week10\Paint\obj\Debug\netcoreapp3.1\Paint.genruntimeconfig.cache
