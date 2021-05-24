@@ -1,0 +1,12 @@
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\bin\Debug\netcoreapp3.1\problemD.exe
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\bin\Debug\netcoreapp3.1\problemD.deps.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\bin\Debug\netcoreapp3.1\problemD.runtimeconfig.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\bin\Debug\netcoreapp3.1\problemD.runtimeconfig.dev.json
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\bin\Debug\netcoreapp3.1\problemD.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\bin\Debug\netcoreapp3.1\problemD.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\obj\Debug\netcoreapp3.1\problemD.AssemblyInfoInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\obj\Debug\netcoreapp3.1\problemD.AssemblyInfo.cs
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\obj\Debug\netcoreapp3.1\problemD.csproj.CoreCompileInputs.cache
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\obj\Debug\netcoreapp3.1\problemD.dll
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\obj\Debug\netcoreapp3.1\problemD.pdb
+C:\Users\Жаркын\Saved Games\Desktop\C#\final\Final\problemD\obj\Debug\netcoreapp3.1\problemD.genruntimeconfig.cache
