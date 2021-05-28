@@ -1,1 +1,1 @@
-**Information and Communication Technologies course**
+**Programming in C#**
